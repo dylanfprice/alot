@@ -16,6 +16,12 @@ Before you do, please be sure that
   features related to contact management, fetching and sending email*.
 
 
+Local Development
+-----------------
+
+Follow the instructions in the [alot docs][alot-manual-install].
+
+
 Licensing
 ---------
 Alot is licensed under the [GNU GPLv3+][GPL3] and all code contributions will be covered by this license.
@@ -67,6 +73,7 @@ Currently typed modules: `alot.errors`, `alot.__init__`, `alot.utils.cached_prop
 [Github]: https://github.com/pazz/alot
 [Issues]: https://github.com/pazz/alot/issues
 [Libera]: https://web.libera.chat/#alot
+[alot-manual-install]: https://alot.readthedocs.io/en/latest/installation.html#manual-installation
 [GPL3]: https://www.gnu.org/licenses/gpl-3.0.en.html
 [PEP8]: https://www.python.org/dev/peps/pep-0008/
 [pycodestyle]:https://github.com/PyCQA/pycodestyle
